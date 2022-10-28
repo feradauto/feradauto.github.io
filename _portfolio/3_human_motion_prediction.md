@@ -1,6 +1,6 @@
 ---
 title: "The Best TIM: Human Motion Prediction"
-excerpt: "Given human motion sequences, predict how the motion continues for future frames."
+excerpt: "Given human motion sequences, we predict how the motion continues for future frames using a Temporal Inception Module (TIM)."
 collection: portfolio
 venue: 'Final project, Machine Perception @ ETH Zurich'
 date: 2021-06-01

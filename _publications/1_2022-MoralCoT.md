@@ -6,4 +6,5 @@ date: 2022-06-01
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2210.01478'
 citation: 'Zhijing Jin*, Sydney Levine*, Fernando Gonzalez*, Ojasv Kamal, Maarten Sap, Mrinmaya Sachan, Rada Mihalcea, Josh Tenenbaum, Bernhard Schölkopf'
+code: https://github.com/feradauto/MoralCoT
 ---

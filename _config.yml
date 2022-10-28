@@ -87,9 +87,10 @@ author:
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            : "fgonzalez@ethz.ch"
+  researchgate     : 
+  cv               : "cv"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -181,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,7 +231,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true

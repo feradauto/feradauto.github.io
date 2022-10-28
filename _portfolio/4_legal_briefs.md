@@ -1,7 +1,6 @@
 ---
 title: "NLP Analysis of Legal Briefs"
-excerpt: "It is a model that takes in legal briefs submitted to U.S. appellate courts and forecast the
-appeal outcome."
+excerpt: "In this paper we predict the appeal outcome decision for legal briefs submitted to U.S. appellate courts."
 collection: portfolio
 citation: "Anver Khusainov, Clémence Lanfranchi, and Fernando Gonzalez"
 venue: 'Data Science Lab @ ETH Zurich'
