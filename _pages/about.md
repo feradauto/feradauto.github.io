@@ -22,6 +22,6 @@ Publications
 
 Projects
 ======
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed%}
   {% include archive-single.html %}
 {% endfor %}
