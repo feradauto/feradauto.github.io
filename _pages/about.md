@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a master's degree in Data Science at ETH Zurich. 
+I have completed my master's degree in Data Science at ETH Zurich. 
 I obtained my Bachelor's degree in Telematics Engineering from Instituto Politecnico Nacional (IPN), Mexico. 
 
 I am interested in building safe and trustworthy AI systems with a special interest in natural language processing applications. 
 
+I also worked as a Data Scientist at OPI Analytics in Mexico City.
 
 Publications
 ======
