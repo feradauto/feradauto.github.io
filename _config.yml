@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fernando Gonzalez"
+title                    : "Fernando Gonzalez Adauto"
 title_separator          : "-"
-name                     : &name "Fernando Gonzalez"
+name                     : &name "Fernando Gonzalez Adauto"
 description              : &description "Senior Machine Learning Engineer at Kavak.com"
 url                      : https://feradauto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Fernando Gonzalez Adauto"
   avatar           : "picture_adj.png"
-  bio              : "Data Science Master's student at ETH Zurich"
-  location         : "Zurich, Switzerland"
+  bio              : "Senior Machine Learning Engineer at Kavak.com"
+  location         : "Mexico City"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UDVZFY4AAAAJ&hl=en"
