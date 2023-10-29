@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Senior Machine Learning Engineer at Kavak.com.
 I have completed my master's degree in Data Science at ETH Zurich. 
 I obtained my Bachelor's degree in Telematics Engineering from Instituto Politecnico Nacional (IPN), Mexico. 
 
