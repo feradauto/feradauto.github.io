@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Machine Learning Engineer at Meta. Working on post-training evals at Meta Superintelligence Lab.
+Machine Learning Engineer at Meta Superintelligence Labs working on post-training evals.
+
 I have completed my master's degree in Data Science at ETH Zurich. 
 I obtained my Bachelor's degree in Telematics Engineering from Instituto Politecnico Nacional (IPN), Mexico. 
 
