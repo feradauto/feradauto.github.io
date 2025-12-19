@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Senior Machine Learning Engineer at Kavak.com.
+Machine Learning Engineer at Meta. Working on post-training evals at Meta Superintelligence Lab.
 I have completed my master's degree in Data Science at ETH Zurich. 
 I obtained my Bachelor's degree in Telematics Engineering from Instituto Politecnico Nacional (IPN), Mexico. 
 
 I am interested in building safe and trustworthy AI systems with a special interest in natural language processing applications. 
 
-I also worked as a Data Scientist at OPI Analytics in Mexico City.
+I also worked as a Machine Learning Engineer at Kavak in Mexico City.
 
 Publications
 ======

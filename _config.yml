@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fernando Gonzalez Adauto"
 title_separator          : "-"
 name                     : &name "Fernando Gonzalez Adauto"
-description              : &description "Senior Machine Learning Engineer at Kavak.com"
+description              : &description "Machine Learning Engineer at Meta"
 url                      : https://feradauto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feradauto/feradauto.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fernando Gonzalez Adauto"
   avatar           : "picture_adj.png"
-  bio              : "Senior Machine Learning Engineer at Kavak.com"
+  bio              : "Machine Learning Engineer at Meta"
   location         : "Mexico City"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UDVZFY4AAAAJ&hl=en"
-  email            : "fgonzalez@ethz.ch"
+  email            : "fer.adauto@gmail.com"
   researchgate     : 
   cv               : "cv"
   uri              : 
